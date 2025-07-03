@@ -1,4 +1,7 @@
 streamlit
-speechrecognition
+pandas
+numpy
+scikit-learn
+joblib
 pyttsx3
-pyaudio
+SpeechRecognition
